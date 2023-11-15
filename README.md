@@ -1,7 +1,7 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ankur kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Currently student in JLU, Bhopal</h3>
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif">
 
 - 🔭 I’m currently student in 2nd Year **Jagran lakecity University**
